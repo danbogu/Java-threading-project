@@ -1,2 +1,3 @@
 # Java-threading-project
-Academic learning project working with multiple threading in Java, simulation a parallel functionating airport
+Academic OOP learning project working with multiple threading in Java, simulation a parallel functionating airport
+This project is based on OOP
